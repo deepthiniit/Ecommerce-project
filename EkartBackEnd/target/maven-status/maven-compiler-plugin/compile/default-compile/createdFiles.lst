@@ -1,0 +1,12 @@
+com\niit\Dao\SupplierDao.class
+com\niit\model\User.class
+com\niit\Dao\UserDao.class
+com\niit\model\Product.class
+com\niit\model\Supplier.class
+com\niit\model\Category.class
+com\niit\config\hiberConfig.class
+com\niit\DaoImpl\CategoryDaoImpl.class
+com\niit\DaoImpl\UserDaoImpl.class
+com\niit\EkartBackEnd\App.class
+com\niit\DaoImpl\SupplierDaoImpl.class
+com\niit\Dao\CategoryDao.class
